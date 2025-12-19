@@ -3,6 +3,10 @@ Attendance Manager is an Android application developed to help students track th
 Many educational institutions require a minimum of 75% attendance to appear in exams. This app was built to solve this real-world student problem by providing accurate attendance tracking and percentage calculation.<br>
 The application enables students to monitor attendance in real time and make informed decisions to maintain eligibility.<br>
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Suyash.attendencemanager)  
+Available on Google Play Store – **Attendance Manager**
+
+
 ## 🎯 Problem Statement<br>
 Students often lose track of their attendance and risk becoming ineligible for exams due to attendance falling below the mandatory 75% threshold.<br>
 This project addresses the problem by offering a simple, reliable, and intuitive attendance management solution.
@@ -36,4 +40,6 @@ This project addresses the problem by offering a simple, reliable, and intuitive
 Suyash Kabra<br>
 SAP SD Professional | Aspiring Data Analyst<br>
 Skills: Power BI, Python, Pandas, SQL, Data Analytics, Business Intelligence<br>
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=YOUR_APP_PACKAGE_NAME)
+📱 **Attendance Manager**  <br>
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Suyash.attendencemanager)
+
